@@ -27,4 +27,4 @@ Product_Category_1 to _3: Category of the product. All 3 are already labaled wit
 
 Purchase: Purchase amount.
 
-Goal: Making prediction for the test set.
+# Goal: Making prediction for the test set.
