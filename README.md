@@ -30,3 +30,5 @@ Two dataset were provided for the project whereas, one is for training the model
 - **Product_Category_1 to _3:** Category of the product. All 3 are already labaled with numbers.
 
 - **Purchase:** Purchase amount (Target)
+
+# Team ISOMAP 👨‍👨‍👧‍👧
