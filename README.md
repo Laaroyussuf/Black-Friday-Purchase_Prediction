@@ -1,8 +1,8 @@
 # Hamoye Premier Project
 
-## Black-Friday-Purchase_Prediction
+## Title: Black-Friday-Purchase_Prediction
 
-# Goal: Making a prediction on Black Friday purchase.
+**Goal:** Making a prediction on Black Friday purchase.
 
 **Datasets:**
 Two dataset were provided for the project whereas, one is for training the model and the other serves as new unseen data that a prediction has to be made on. There are 12 features in the training set including the target while, the input set has 11 features excluding the target (Purchase) which is to be predicted.
