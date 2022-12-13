@@ -1,6 +1,6 @@
 # Hamoye Premier Project
 
-## Title: Black-Friday-Purchase_Prediction
+## Title: Black Friday Purchase Prediction
 
 ### Goal: 
 Making a prediction on Black Friday purchase.
